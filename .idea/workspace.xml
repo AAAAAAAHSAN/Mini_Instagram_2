@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5372e58c-eae6-4012-aecf-82dcb22baae3" name="Default Changelist" comment="" />
+    <list default="true" id="5372e58c-eae6-4012-aecf-82dcb22baae3" name="Default Changelist" comment="Adding more authentication">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/posts/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/posts/show.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -122,11 +128,14 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1hAIQRro8SLznYvexwCp6cottSB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/profiles" />
@@ -160,17 +169,45 @@
       <workItem from="1599447455173" duration="11655000" />
       <workItem from="1599474034291" duration="598000" />
       <workItem from="1599540478988" duration="13283000" />
+      <workItem from="1599667292480" duration="5545000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding more authentication">
+      <created>1599673326979</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599673326979</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding more authentication" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding more authentication" />
   </component>
   <component name="WindowStateProjectService">
     <state x="648" y="316" key="#Custom_Plugin_Repositories" timestamp="1599474096805">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="648" y="316" key="#Custom_Plugin_Repositories/0.0.1536.834/-1920.8.1920.1080@0.0.1536.834" timestamp="1599474096805" />
+    <state x="499" y="172" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1599670408497">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="172" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.834/-1920.8.1920.1080@0.0.1536.834" timestamp="1599670408497" />
     <state x="548" y="158" key="FileChooserDialogImpl" timestamp="1599474111084">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -179,9 +216,13 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="62" key="SettingsEditor/0.0.1536.834/-1920.8.1920.1080@0.0.1536.834" timestamp="1599474631345" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1599567187608">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1599673331123">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/-1920.8.1920.1080@0.0.1536.834" timestamp="1599567187608" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1920.8.1920.1080@0.0.1536.834" timestamp="1599673331123" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1599671894474">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/-1920.8.1920.1080@0.0.1536.834" timestamp="1599671894474" />
   </component>
 </project>
