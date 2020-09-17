@@ -9,9 +9,9 @@
         <div class="col-9">
             <div class="d-flex justify-content-between align-items-baseline">
                 <div class="d-flex align-items-center pb-3">
-                    <dvi class="h4">{{$user->username}}</dvi>
+                    <div class="h4">{{$user->username}}</div>
 
-                    <follow-button user-id="{{$user->id}}"></follow-button>
+                    <follow-button user-id="{{$user->id}}" follows="{{$follows}}"></follow-button>
                 </div>
 
 
