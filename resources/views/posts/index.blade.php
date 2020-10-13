@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container">
+<div class="container" style="background-color: #dddddd">
 
     @foreach($posts as $post)
         <div class="row">
